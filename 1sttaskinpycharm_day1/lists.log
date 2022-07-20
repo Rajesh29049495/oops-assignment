@@ -1,0 +1,24 @@
+INFO 2022-07-19 18:50:17,265 log for list class
+INFO 2022-07-19 18:59:44,048 log for list class
+INFO 2022-07-19 18:59:44,048 list on which list operations about to be perfprmed has been entered 
+INFO 2022-07-19 18:59:44,049 we are about to reverse list
+INFO 2022-07-19 18:59:44,049 reverse list is [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3] 
+INFO 2022-07-19 18:59:44,049 we about to find the number
+INFO 2022-07-19 18:59:44,049 we about to find the number
+INFO 2022-07-19 18:59:44,049 we are bout to extract lists from the list
+INFO 2022-07-19 18:59:44,050 we are about to extract string from the list
+ERROR 2022-07-19 18:59:44,050 'list1' object has no attribute 'l2'
+Traceback (most recent call last):
+  File "C:\Users\Rajesh Singh\PycharmProjects\1sttaskinpycharm\lists.py", line 73, in extracts
+    for i in self.l2:
+AttributeError: 'list1' object has no attribute 'l2'
+INFO 2022-07-19 18:59:44,078 sucessfully all list operations performed
+INFO 2022-07-19 19:01:11,689 log for list class
+INFO 2022-07-19 19:01:11,690 list on which list operations about to be perfprmed has been entered 
+INFO 2022-07-19 19:01:11,690 we are about to reverse list
+INFO 2022-07-19 19:01:11,690 reverse list is [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3] 
+INFO 2022-07-19 19:01:11,690 we about to find the number
+INFO 2022-07-19 19:01:11,690 we about to find the number
+INFO 2022-07-19 19:01:11,690 we are bout to extract lists from the list
+INFO 2022-07-19 19:01:11,690 we are about to extract string from the list
+INFO 2022-07-19 19:01:11,690 sucessfully all list operations performed

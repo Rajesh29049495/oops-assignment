@@ -1,0 +1,19 @@
+INFO 2022-07-19 18:50:00,399 we are accessing class string1
+INFO 2022-07-19 19:02:30,659 we are accessing class string1
+ERROR 2022-07-19 19:03:37,622 string1() takes no arguments
+Traceback (most recent call last):
+  File "C:\Users\Rajesh Singh\PycharmProjects\1sttaskinpycharm\strings.py", line 89, in <module>
+    a=string1(input("enter the string : "))          #####"""The Samsung Group[3] (or simply Samsung, stylized as S\u039bMSUNG) (Korean: \uc0bc\uc131 [sams\u028c\u014b]) is a South Korean multinational manufacturing conglomerate headquartered in Samsung Town, Seoul, South Korea.[1] It comprises numerous affiliated businesses,[1] most of them united under the Samsung brand, and is the largest South Korean chaebol (business conglomerate). As of 2020, Samsung has the th highest global brand value.[4]\n\nSamsung was founded by Lee Byung-chul in 1938 as a trading company. Over the next three decades, the group diversified into areas including food processing, textiles, insurance, securities, and retail. Samsung entered the electronics industry in the late 1960s and the construction and shipbuilding industries in the mid-1970s; these areas would drive its subsequent growth. Following Lee's death in 1987, Samsung was separated into five business groups – Samsung Group, Shinsegae Group, CJ Group and Hansol Group, and Joongang Group.""")
+TypeError: string1() takes no arguments
+INFO 2022-07-19 19:07:44,888 we are accessing class string1
+INFO 2022-07-19 19:07:44,888 calling the functions from the strin1 class
+INFO 2022-07-19 19:07:44,888 we are about to extract string from 1 to 300 with a jump of 3
+INFO 2022-07-19 19:07:44,888 extracted string is re n:
+INFO 2022-07-19 19:07:44,888 we are about to reverse string
+INFO 2022-07-19 19:07:44,888 reversed string is hgnis hsejar
+INFO 2022-07-19 19:07:44,888 e are about to write the string in upper letter then split
+INFO 2022-07-19 19:07:44,888 changing string into upper letter and then splitting them has been done
+INFO 2022-07-19 19:07:44,888 we will lower the letters of the string
+INFO 2022-07-19 19:07:44,888 the string's alphabets has been lowered
+INFO 2022-07-19 19:07:44,888 in this we will replace the string
+INFO 2022-07-19 19:07:44,888 replaced string
