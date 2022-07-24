@@ -29,21 +29,10 @@ class data():
     def file_open(self,a):
         lg.linfos(self,"file_open")
         #logging.info("started")
-        f = open(a,"w")                 ####f = open(self.file_name + "." + self.file_type,'w')  or f = open(f"{self.file_name}.txt","w") or f = open(f"{self.file_name}.{self.file_type}","w")    these are some other ways to write the file opening syntax with little modifications in rest of code as well to accomodate these syntaxes
+        f = open(a,"w") 
         f.write("first time writing using oops concept")
         f.close()
-        lg.linfod(self, "file opening")
-
-
-
-    """def file_open(self):
-        if os.path.isfile(self.file_name):
-            with open(self.file_name) as f
-                f.read()
-        else:
-            with open(self.file_name,'w+') as f
-                f.write("writing in the file")
-    other syntaxes to refer, to know other possibilities in which this code can be written"""
+        lg.linfod(self, "file opening"
 
 
 
